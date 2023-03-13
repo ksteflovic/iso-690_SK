@@ -8,4 +8,4 @@ File contains:
 For more information, check out [CitationStyles.org](citationstyles.org)
 
 ### Licence
-This repository is released under the Creative Commons Attribution-ShareAlike 3.0 Unported license. For attribution, any software using CSL styles from this repository must include a clear mention of the CSL project and a link to CitationStyles.org. When distributing these styles, the listings of authors and contributors in the style metadata must be kept as is.
+This repository is released under the Creative Commons license. For attribution, any software using CSL styles from this repository must include a clear mention of the CSL project and a link to CitationStyles.org. When distributing these styles, the listings of authors and contributors in the style metadata must be kept as is.
